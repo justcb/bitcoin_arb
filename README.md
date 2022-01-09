@@ -13,7 +13,9 @@ It imports pandas, Path from pathlib, and matplotlib.
 
 ## Installation Guide
 
-No istallation is required, other than loading in Jupyter Notebook.  To do so, navigate to the directory containing the notebook in terminal or GitBash.  There, type `jupyter lab`
+No istallation is required, other than loading in Jupyter Notebook.  To do so, navigate to the directory containing the notebook in terminal or GitBash.  There, type `jupyter lab`.
+
+Once in your Jupyter Notebook, select crypto_arbitrage.ipynb from the left menu.
 
 ---
 
