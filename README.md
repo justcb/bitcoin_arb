@@ -23,12 +23,22 @@ Bitcoin Arbitrage comes packaged with a test set of data from January to March 2
 
 After importing the data, Bitcoin Arbitration cleans the data by removing null values, removing non-numerical characters, normalizing the column types, and removing duplicates.  See screenshots below.
 
+![](./Resources/Img/1_fillna.png)
+![](./Resources/Img/2_stringreplace.png)
+![](./Resources/Img/3_float.png)
+![](./Resources/Img/4_dropdup.png)
+
 
 After the data is cleaned, Bitcoin Arbitrage identifies and presents with a plot overlay, the potential arbitrage opportunites for early, middle, and late dates in the time period.
+
+![](./Resources/Img/5_overlay.png)
+![](./Resources/Img/6_day_overlay.png)
 
 
 Finally, it computes the profits possible for the arbitrage opportunities.
 
+![](./Resources/Img/7_profit.png)
+![](./Resources/Img/8_profitplot.png)
 ---
 
 ## Contributors
